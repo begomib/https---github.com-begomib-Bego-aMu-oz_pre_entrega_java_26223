@@ -2,6 +2,6 @@
 
 public class app {
     public static void main(String[] args) {
-        System.out.println("Proyecto listo");
+        System.out.println("TP Java");
     }
 }
